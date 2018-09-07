@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-user" />
+        <module name="dobbo-consumer" />
+        <module name="PROCEDURE" />
+        <module name="provider-ticker" />
+        <module name="surcty" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer-user" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demos" target="1.8" />
+      <module name="dobbo-consumer" target="1.8" />
+      <module name="dobbo-provider" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="grpc" target="1.8" />
+      <module name="one" target="1.8" />
+      <module name="PROCEDURE" target="1.8" />
+      <module name="provider-ticker" target="1.8" />
+      <module name="security" target="1.8" />
+      <module name="surcty" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

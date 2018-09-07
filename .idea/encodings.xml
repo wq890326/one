@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/PROCEDURE" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dobbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dobbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dobbo-provider/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-ticker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surcty" charset="UTF-8" />
+  </component>
+</project>
